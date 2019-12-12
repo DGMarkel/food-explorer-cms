@@ -24,3 +24,15 @@ What I need the CMS to do:
     Track site statistics: user engagement, views, likes, and shares.
     Admin tier for moderating user engagement?
     Enable editors to markup blog posts?
+    some kind of dynamic stylesheet creator:
+      after creating basic prescribed blog post elements, a user should be able to arrange them however they want on the page:
+        all items can be dragged, rearranged and resized on the page, but must occupy a given position: top, middle, bottom.
+          navbar must be on the very top
+          users can manipulate:
+            color
+            background color
+            font-size
+            opacity
+            image size
+            add subheaders
+          
